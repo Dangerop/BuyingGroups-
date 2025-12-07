@@ -1,2 +1,1 @@
-# BuyingGroups-
-Telegram old groups buying full time 24/7
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
